@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "username": "Mariem",
+      "email": "mariem@gmail.com",
+      "gender": "female",
+      "hobbies": [
+        "Reading",
+        "Writing"
+      ],
+      "review": 24,
+      "notificaiton": true,
+      "id": 1
+    },
+    {
+      "username": "mariem",
+      "email": "aaa@gmail.com",
+      "gender": "female",
+      "hobbies": [
+        "Reading"
+      ],
+      "review": 20,
+      "notificaiton": true,
+      "id": 2
+    }
+  ]
+}
